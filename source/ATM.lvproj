@@ -12,6 +12,8 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Tests" Type="Folder">
+			<Item Name="Controller Test.lvclass" Type="LVClass" URL="../Tests/Controller Test/Controller Test.lvclass"/>
+			<Item Name="Account Database Test.lvclass" Type="LVClass" URL="../Tests/Account Database Test/Account Database Test.lvclass"/>
 			<Item Name="View Model Test.lvclass" Type="LVClass" URL="../Tests/Start Application Run Test/View Model Test.lvclass"/>
 		</Item>
 		<Item Name="ATM accounts.txt" Type="Document" URL="../ATM accounts.txt"/>
