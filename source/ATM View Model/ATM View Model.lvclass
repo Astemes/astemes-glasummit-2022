@@ -65,6 +65,15 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1107821058</Property>
 	</Item>
+	<Item Name="Update Card Simulator Control.vi" Type="VI" URL="../Private/Update Card Simulator Control.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;^!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!D!$R!!!!!!!!!!)7162.)%.P&lt;H2S&lt;WRM:8)O&lt;(:D&lt;'&amp;T=QF4&gt;'&amp;U:3ZD&gt;'Q!9U!7!!A&amp;5X2B=H1,37ZT:8*U)%.B=G1(2'6Q&lt;X.J&gt;!B8;82I:(*B&gt;QF'98.U)%.B=WA%4G^O:1^#97RB&lt;G.F)%FO=86J=HE,5G6U&gt;8*O)%.B=G1!#5&amp;543"4&gt;'&amp;U:1!U1(!!(A!!'":"6%UA6GFF&gt;S".&lt;W2F&lt;#ZM&gt;G.M98.T!!!2162.)&amp;:J:8=A47^E:7QA;7Y!6!$Q!!Q!!Q!%!!1!"!!%!!1!"!!%!!5!"!!'!!=$!!"Y!!!.#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!%!!!!"!!!!!!!1!)!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710290</Property>
+	</Item>
 	<Item Name="Update Control States.vi" Type="VI" URL="../Update Control States.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(!!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$:!=!!?!!!9&amp;E&amp;543"7;76X)%VP:'6M,GRW9WRB=X-!!"*"6%UA6GFF&gt;S".&lt;W2F&lt;#"0&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!D!$R!!!!!!!!!!)7162.)%.P&lt;H2S&lt;WRM:8)O&lt;(:D&lt;'&amp;T=QF4&gt;'&amp;U:3ZD&gt;'Q!9U!7!!A&amp;5X2B=H1,37ZT:8*U)%.B=G1(2'6Q&lt;X.J&gt;!B8;82I:(*B&gt;QF'98.U)%.B=WA%4G^O:1^#97RB&lt;G.F)%FO=86J=HE,5G6U&gt;8*O)%.B=G1!#5&amp;543"4&gt;'&amp;U:1!U1(!!(A!!'":"6%UA6GFF&gt;S".&lt;W2F&lt;#ZM&gt;G.M98.T!!!2162.)&amp;:J:8=A47^E:7QA37Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!(!!A$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!%!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#1!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -82,5 +91,14 @@
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+	</Item>
+	<Item Name="Update User Input Control.vi" Type="VI" URL="../Private/Update User Input Control.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;^!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!D!$R!!!!!!!!!!)7162.)%.P&lt;H2S&lt;WRM:8)O&lt;(:D&lt;'&amp;T=QF4&gt;'&amp;U:3ZD&gt;'Q!9U!7!!A&amp;5X2B=H1,37ZT:8*U)%.B=G1(2'6Q&lt;X.J&gt;!B8;82I:(*B&gt;QF'98.U)%.B=WA%4G^O:1^#97RB&lt;G.F)%FO=86J=HE,5G6U&gt;8*O)%.B=G1!#5&amp;543"4&gt;'&amp;U:1!U1(!!(A!!'":"6%UA6GFF&gt;S".&lt;W2F&lt;#ZM&gt;G.M98.T!!!2162.)&amp;:J:8=A47^E:7QA;7Y!6!$Q!!Q!!Q!%!!1!"!!%!!1!"!!%!!5!"!!'!!=$!!"Y!!!.#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!%!!!!"!!!!!!!1!)!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710290</Property>
 	</Item>
 </LVClass>
